@@ -9,21 +9,21 @@ Firebase configuration needs to established; the user can navigate to Google's F
 
 ### Address for this repository:
 
-https://github.com/ArttuKesanto/corona_mobile_application
+https://github.com/ArttuKesanto/corona_mobile_application_final
 
 ## Log-In screen:
 ### (Accounts can be created and IF accepted, the user will be logged in and the information saved to Firebase)
 
-<img src="https://github.com/ArttuKesanto/corona_mobile_application/blob/master/app_pics/IMG_6942.png" width="400px" height="auto">
+<img src="https://github.com/ArttuKesanto/corona_mobile_application_final/blob/master/app_pics/IMG_6942.png" width="400px" height="auto">
 
 ## Global information:
-<img src="https://github.com/ArttuKesanto/corona_mobile_application/blob/master/app_pics/IMG_6943.png" width="400px" height="auto">
+<img src="https://github.com/ArttuKesanto/corona_mobile_application_final/blob/master/app_pics/IMG_6943.png" width="400px" height="auto">
 
 ## Countries and favouriting:
-<img src="https://github.com/ArttuKesanto/corona_mobile_application/blob/master/app_pics/IMG_6944.png" width="400px" height="auto">
+<img src="https://github.com/ArttuKesanto/corona_mobile_application_final/blob/master/app_pics/IMG_6944.png" width="400px" height="auto">
 
 ## Navigation (drawer displayed):
-<img src="https://github.com/ArttuKesanto/corona_mobile_application/blob/master/app_pics/IMG_6945.png" width="400px" height="auto">
+<img src="https://github.com/ArttuKesanto/corona_mobile_application_final/blob/master/app_pics/IMG_6945.png" width="400px" height="auto">
 
 ## Closest stops displayed (same functionality with bikes):
-<img src="https://github.com/ArttuKesanto/corona_mobile_application/blob/master/app_pics/IMG_6947.png" width="400px" height="auto">
+<img src="https://github.com/ArttuKesanto/corona_mobile_application_final/blob/master/app_pics/IMG_6947.png" width="400px" height="auto">
