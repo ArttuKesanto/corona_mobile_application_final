@@ -1,3 +1,11 @@
+![GitHub contributors](https://img.shields.io/github/contributors/ArttuKesanto/corona_mobile_application_final?logo=GitHub&style=flat-square)
+</br>
+![GitHub last commit](https://img.shields.io/github/last-commit/ArttuKesanto/corona_mobile_application_final?logo=github&style=social)
+</br>
+![GitHub top language](https://img.shields.io/github/languages/top/ArttuKesanto/corona_mobile_application_final?logo=JavaScript&style=for-the-badge)
+</br>
+
+
 # corona_mobile_application
 A mobile application developed in relation to EXPO and React Native. An App designed for iOS and Android, fetching data with async Fetch and multiple components.
 
