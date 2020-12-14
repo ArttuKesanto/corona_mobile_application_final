@@ -1,8 +1,10 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/ArttuKesanto/corona_mobile_application_final?logo=GitHub&style=flat-square)
 </br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/ArttuKesanto/corona_mobile_application_final?logo=github&style=social)
-</br>
+</br> <br>
 ![GitHub top language](https://img.shields.io/github/languages/top/ArttuKesanto/corona_mobile_application_final?logo=JavaScript&style=for-the-badge)
+</br>
+![GitHub](https://img.shields.io/github/license/ArttuKesanto/corona_mobile_application_final?logo=github&style=for-the-badge)
 </br>
 
 
